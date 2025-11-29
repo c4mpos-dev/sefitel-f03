@@ -250,7 +250,7 @@ with tab2:
     st.plotly_chart(fig3d, use_container_width=True)
 
 # --- 6. Rodapé Teórico ---
-with st.expander("📚 Explicar a Física por trás disso (Cola para o Seminário)"):
+with st.expander("📚 Explicar a Física por trás disso"):
     st.markdown(r"""
     A **Lei de Gauss** afirma que o fluxo elétrico total através de uma superfície fechada é proporcional à carga contida.
     
