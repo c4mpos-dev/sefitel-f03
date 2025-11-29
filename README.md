@@ -51,7 +51,7 @@ Para rodar este projeto na sua máquina:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone [https://github.com/c4mpos-dev/sefitel-f03.git](https://github.com/c4mpos-dev/sefitel-f03.git)
     cd seu-repositorio
     ```
 
@@ -71,7 +71,7 @@ Para rodar este projeto na sua máquina:
 
 4.  **Execute a aplicação:**
     ```bash
-    streamlit run app_seminario.py
+    streamlit run app-seminario.py
     ```
 
 ---
