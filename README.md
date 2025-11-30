@@ -10,7 +10,7 @@
 
 ## 📸 Demonstração
 
-🔗 **Acesse Online:** [sefitel-f03-grupo21](https://sefitel-f03-grupo21.streamlit.app/)
+🔗 **Acesse Online:** [sefitel-f03-grupo23](https://sefitel-f03-grupo21.streamlit.app/)
 
 ---
 
